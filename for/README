@@ -1,0 +1,8 @@
+The file igrf12.f was downloaded from 
+
+http://www.ngdc.noaa.gov/IAGA/vmod/igrf12.f
+
+and then I commented out everything down to line 469. 
+
+The original downloaded version of igrf12.f is included here for
+reference as igrf12.f.orig
