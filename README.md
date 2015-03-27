@@ -1,0 +1,2 @@
+# igrf
+The IGRF model
